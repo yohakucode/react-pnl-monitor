@@ -4,6 +4,8 @@ React + TypeScript + Vite + Tailwind CSS v4 で作った、損益モニターの
 
 > 画面の数字はすべて架空のデータです。実在の口座・取引・相場とは関係ありません。
 
+**デモ:** https://yohakucode.github.io/react-pnl-monitor/ （ブラウザでそのまま動きます）
+
 ![損益モニターのサンプル画面](docs/overview.png)
 
 ## 画面でできること
