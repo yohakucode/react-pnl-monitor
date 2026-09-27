@@ -6,6 +6,8 @@ React + TypeScript + Vite + Tailwind CSS v4 で作った、損益モニターの
 
 **デモ:** https://yohakucode.github.io/react-pnl-monitor/ （ブラウザでそのまま動きます）
 
+**解説記事:** [React + Vite + Tailwind CSS で損益モニターを作る、入門の次の5つのポイント](https://zenn.dev/yohakucode/articles/react-vite-tailwind-pnl-monitor)（Zenn）
+
 ![損益モニターのサンプル画面](docs/overview.png)
 
 ## 画面でできること
